@@ -1,4 +1,4 @@
-# 🖥️ Hii,my name is Evelin 
+# 🖥️ Oii,meu nome é Evelin 
 
 📂 Sobre Mim:
 📚 Estudante de Tecnologia da Informação e Computação
