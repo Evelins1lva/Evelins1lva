@@ -6,14 +6,23 @@
 🖥️ Fã de tecnologia retrô e design minimalista
 💡 Em busca de novos desafios e estágio na área
 💾 My Skill Set
-Frontend:
+:
+Frontend
+:
 HTML
+,
 CSS
+,
 JavaScript
+,
 React
-Backend:
+Backend
+:
 C
+,
 Python
+,
 Linux
+,
 Git
 
