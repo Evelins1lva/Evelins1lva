@@ -16,6 +16,7 @@ CSS
 JavaScript
 ,
 React
+|
 Backend
 :
 C
