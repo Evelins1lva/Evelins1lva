@@ -1,5 +1,5 @@
 # 🖥️ Hii,my name is Evelin 
-![Windows 95 Boot](https://giphy.com/gifs/windows-loadingscreen-retrowindows-QB9rH7NbUQfbN7wrf3)
+
 📂 Sobre Mim:
 📚 Estudante de Tecnologia da Informação e Computação
 🔒 Aprendendo sobre cibersegurança e ciência de dados
