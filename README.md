@@ -16,7 +16,6 @@ React
 
 Backend:
 Python
-Flask
 Linux
 Git
 
