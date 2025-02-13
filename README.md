@@ -3,11 +3,11 @@
 
 
 About Me:
-📚 Student of Information Technology and Computing
+📚 Student of Information Technology and Computing.
 
-🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript
+🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript.
 
-🖥️ Fan of retro technology and minimalist design
+🖥️ Fan of retro technology and minimalist design.
 
 💡 Looking for new challenges and an internship in the field
 
