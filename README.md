@@ -2,36 +2,24 @@
 ![Image](https://github.com/user-attachments/assets/a68f83d5-cea3-42de-a563-81294711428e)
 
 
+About Me:
+📚 Student of Information Technology and Computing
 
+🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript
 
-📂 Sobre Mim:
-📚 Estudante de Tecnologia da Informação e Computação
+🖥️ Fan of retro technology and minimalist design
 
-🔒 Aprendendo sobre aprimorar minha aprendizagem em páginas web em HTML,CSS,JavaScript
+💡 Looking for new challenges and an internship in the field
 
-🖥️ Fã de tecnologia retrô e design minimalista
+💾 My Skill Set:
 
-💡 Em busca de novos desafios e estágio na área
-
-💾 My Skill Set
-:
-Frontend
-:
-HTML
-,
-CSS
-,
-JavaScript
-,
+Frontend: HTML, 
+CSS, 
+JavaScript, 
 React
 |
-Backend
-:
-C
-,
-Python
-,
-Linux
-,
+Backend:
+C,
+Phyton,
+Linux,
 Git
-
