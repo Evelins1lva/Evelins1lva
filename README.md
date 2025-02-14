@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -48,4 +46,3 @@
 <h4 align="left">About Me: 📚 Student of Information Technology and Computing.<br><br>🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript.<br>🖥️ Fan of retro technology and minimalist design.<br>💡 Looking for new challenges and an internship in the field.</h4>
 
 ###
- 
