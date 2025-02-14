@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Evelin,I'm an information technology student.</h2>
+<h2 align="left">Hi 👋! My name is Evelin.</h2>
 
 ###
 
@@ -48,3 +48,4 @@
 <h4 align="left">About Me: 📚 Student of Information Technology and Computing.<br><br>🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript.<br>🖥️ Fan of retro technology and minimalist design.<br>💡 Looking for new challenges and an internship in the field.</h4>
 
 ###
+ 
