@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">About Me: 📚 Student of Information Technology and Computing.<br><br>🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript.Also know Python and focusing on learning Java.<br>🖥️ Fan of retro technology and minimalist design.<br>💡 Looking for new challenges and an internship in the field.</h4>
+<h3 align="left">About Me: 📚 Student of Information Technology and Computing.<br><br>🔒 Learning to improve my skills in web development with HTML, CSS, and JavaScript.Also know Python and focusing on learning Java.<br>🖥️ Fan of retro technology and minimalist design.<br>💡 Looking for new challenges and an internship in the field.</h3>
 
 ###
 
