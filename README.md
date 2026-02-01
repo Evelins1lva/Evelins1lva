@@ -1,3 +1,23 @@
+<table>
+  <tr>
+    <td align="center">
+      <!-- Hello Evelin typing -->
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=320&height=40&lines=Hello!+I'm+Evelin" 
+        alt="Typing SVG" 
+      />
+      <br/><br/>
+
+      <!-- Quadradinho com imagem -->
+      <img 
+        src="https://i.imgur.com/MRILS88.gif" 
+        width="300" 
+        style="border-radius: 10px;"
+      />
+    </td>
+  </tr>
+</table>
+
 # 💫 About Me:
  Hi! 👋 My name is Evelin, and I’m an Information Technology student at FAETERJ, expected to graduate in 2026. I’m passionate about Full Stack development, with a focus on back-end, data, and AI, as well as web technologies and minimalist design.<br><br>💻 Technical Skills:<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend & AI: Python, C, C++, C#, Java, APIs, Machine Learning / AI<br><br>Databases & Data Tools: SQL, relational data modeling, Power BI<br><br>Cloud & Tools: AWS, Git, VS Code, GitHub<br><br>🚀 Projects & Experience:<br><br>Web platforms for people management and educational games for children<br><br>Job listing websites and news information capture platforms (CVAO NEWS)<br><br>Academic and personal projects in back-end, data analysis, and AI solutions<br><br>🌱 Currently:<br><br>Enhancing my back-end, data engineering, and AI skills<br><br>Exploring new web technologies, cloud solutions, and data visualization<br><br>Building projects that combine functionality, intelligence, and user experience<br><br>📫 Connect with me:<br>GitHub: Evelins1lva | Linkedin:evelin-silva
 
