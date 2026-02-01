@@ -7,14 +7,6 @@
         alt="Typing SVG" 
       />
       <br/><br/>
-
-      <!-- Quadradinho com imagem -->
-      <img 
-        src="https://i.imgur.com/MRILS88.gif" 
-        width="300" 
-        style="border-radius: 10px;"
-      />
-    </td>
   </tr>
 </table>
 
